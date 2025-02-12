@@ -14,10 +14,6 @@ An interactive **real-time multiplayer chess game** built with **Node.js, Socket
 
 ---
 
-## 📷 Preview  
-![Chess Game UI](https://via.placeholder.com/600x300?text=Chess+Game+Screenshot)  
-
----
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS (Tailwind), JavaScript  
